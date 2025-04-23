@@ -1,0 +1,213 @@
+o que é control version ? 
+
+
+é um sistema que registra as alterações em um arquivo ou conjunto de arquivos ao longo do tempo, para que você possa recuperar versões específicas depois 
+
+
+o que é git ? 
+
+git é um dvcs, sistema de controle de versão distribuído 
+
+é gratuito e tem código aberto 
+
+foi projetado para lidar com tudo, desde projetos pequenos a muito grandes, com velocidade e eficiência 
+
+otimizado para operações locais 
+
+
+branching ( ramificação, significa criar versões separadas de um software ou projeto, que evoluem independentemente, permitindo que diferentes equipes trabalhem em funcionalidades distintas sem interferir no código principal) 
+
+
+snapshots, não delta ( snapshot representa um estado específico de um repositório em um determinado ponto do tempo, enquanto delta representa as diferenças entre dois snapshots) 
+
+
+controle de  versão centralizado 
+
+pela imagem descreve que os computadores acessam o mesmo cervidor central. 
+
+
+controle de versão distribuido 
+
+
+a imagem mostra que além dos computadores acessarem o mesmo computador servidor, eles acessam também outros computadores 
+
+
+
+GIT VS GITHUB 
+
+
+git é um sistema de controle de versão distribuído  (dvcs) 
+
+github é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando git 
+
+github também é uma plataforma social para desenvolvedore colaboraram e compartilharem código 
+
+
+GITHUB ACCOUNTS AND PLANS 
+
+
+github oferece uma variedade de tipos de contas incluindo free ( gratuitas)_ e paid (pagas ) 
+
+contas pagas (paid acccounts) possuem acesso a funcionalidades adicionais, como maior armazenamento e segurança avançada. 
+
+organizações podem também comprar planos que permitem maior colaboração e controle de repositórios. 
+
+
+CONTAS    E    PLANOS 
+
+personal 	github free ( personal organizations) 
+
+organization 	github pro 
+
+enterprise 	GITHUB TEAM 
+		github enterprise 
+
+
+
+GITHUB ENTERPRISE SERVER 
+
+
+O GITHUB ENTERPRISE SERVER É UMA VERSÃO DO GITHUB QUE VOCÊ PODE HOSPEDAR NO SEU PRÓPRIO AMBIENTE DE REDE, ele foi projetado para empresas que desejam a funcionalidade do github, mas por razões de segurança ou regulamentação, precisam hospeda-lo em seus próprios servidores. 
+
+
+o github enterprise server é ieal para organizações que precisam de um ambiente de desenvolviemnto colaborativo, mas também precisam cumprir requisitos rigorosos de segurança e privacidade. 
+
+
+GITHUB DESKTOP 
+
+github desktop é um aplicativo de software independente e de código aberto que permite que você seja mais produtivo 
+
+facilita a colaboração entre você e a sua equipe e o compartilhamento das melhores práticas de git e github dentro de sua equipe 
+
+COM ELE VOCÊ PODE 
+
+adicionar e clonar repositótios 
+
+adcionar alterações ao seu comando commit de forma interativa 
+
+adicionar rapidamente coautores ao seu commit 
+
+confira filiar com soluções pull e visualize status de CI
+
+comprar imagens alteradas 
+
+
+GITHUB MOBILE 
+
+GitHub Mobile ofereceumamaneirade realizartrabalhosde alto impactono GitHub rapidamentee de qualquerlugar. GitHub Mobile é umamaneirasegurade acessarseusdados do GitHub pormeiode um aplicativoclientepróprioe confiável.
+
+Com o GitHub Mobile vocêpode
+
+Gerenciar, fazer triagem e limpar notificações de github.com.
+Ler, revisar e colaborar em problemas e solicitações pull.
+Editar arquivos em pull requests.
+Pesquisar, navegar e interagir com usuários, repositórios e organizações 
+receber uma notificação push quando alguèm mencionar o seu nome de usuario 
+agendar notificações push para horários personalizados especificos 
+proteger sua conta github com autenticação de dois fatores 
+verificar suas tentivas de login e dispositivos não reconhecidos 
+
+GITHUB MARKETPLACE 
+
+
+o github marketplace é uma plataforma onde você pode descobrir e comprar ferramentas que se integram ao github para ajudar a otimizar seu fluxo de trabalho 
+
+funcionalidades 
+
+Repos ( repositótios, são onde os códigos moram cada projeto tem o seu repositório, é como uma pasta com tudo do projeto: arquivos, histórico, configurações etc.. ) 
+
+Issues 9 são como tarefas ou problemas a serem resolvidos, você pode abrir uma issue para relatar um bug, sugerir uma melhoria ou anotar algo a fazer ) 
+
+Discussions( espaço para conversar com outras pessoas sobre o projeto pode ser para tirar dúvidas, pedir sugestão, trocar ideias) 
+
+Pullrequests ( quando alguém faz uma mudança no código geralmente em outra branch e quer juntar essa mudança com a branch  principal geralmente a main, abre um pr, é como um pedido de atualizações) 
+
+Notifications (são vistos sobre o que está acontecendo nos projetos que você segue, pr issues, comentarios etc.
+Labels)
+
+Actions ( automatizações dentro do github tipo quando alguém faz u commit, o github já esta com o codigo sozinho, dá pra fazer várias automações legais com isso 
+
+Forks ( quando você copia um repositório pra sua conta pra poder mexer nele sem mudar o original, muito usado quando alquém quer contribuir em um projeto de outra pessoa) 
+
+Projects ( são como quadros de tarefas dentro do github, ajuda a organizar as atividades de um projeto) 
+
+
+MARKDOWN 
+
+é uma linguagem de marcação leve usada para formatar texto simples, ele foi projetado para ser fácil de ler e escrever, ao mesmo tempo que permite aos usuários converte-los facilmente em html ou outros formatos de documento 
+
+
+estratégias de branch 
+
+as estratégias de braching determinam como a equipe aborda a ramificação do código. Neste treinamento, citaremos dois exemplos de estratégias: git flow e github flow 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
